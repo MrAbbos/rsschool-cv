@@ -13,6 +13,7 @@ Eager and highly motivated to learn and practice new technologies and 3rd-year c
 Skills and Proficiency:
 HTML5, CSS3, Bootsrtap, Tailwind
 JavaScript Basics
+React
 Git, GitHub
 VS Code
 
