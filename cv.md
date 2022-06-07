@@ -16,3 +16,7 @@ JavaScript Basics
 Git, GitHub
 VS Code
 
+Languages:
+Uzbek - Native
+English - Advanced (with IELTS 7) 
+Russian - Basic
