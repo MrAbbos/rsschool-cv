@@ -8,7 +8,7 @@ E-mail: mbotirjonov2002@gmail.com
 Telegram: @mirabbos
 LinkedIn: mirabbos botirjonov
 Briefly About Myself:
-Eager and highly motivated to learn and practice new technologies and 3rd-year computer science student from Tashkent, Uzbekistan. Passionate about back-end engineering, application development and currently a back-end developer at software development company, Nobalab Tech
+Eager and highly motivated to learn and practice new technologies and 3rd-year computer science student from Tashkent, Uzbekistan. Passionate about back-end engineering, application development and currently a back-end developer at software development company, Novalab Tech
 
 Skills and Proficiency:
 HTML5, CSS3, Bootsrtap, Tailwind
